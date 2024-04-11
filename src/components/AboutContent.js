@@ -9,7 +9,14 @@ const AboutContent = () => {
     <div className="about">
       <div className="left">
         <h1>Who Am I?</h1>
-        <p>I am a front-end Developer</p>
+        <p>
+          I am dedicated to crafting immersive digital experiences that
+          captivate and inspire. With a blend of creativity and technical
+          expertise, I strive to push the boundaries of front-end development,
+          creating seamless interfaces that elevate user interactions. My
+          mission is to transform ideas into reality, delivering innovative
+          solutions that leave a lasting impact.
+        </p>
         <Link to="/contact">
           <button className="btn">Contact</button>
         </Link>
